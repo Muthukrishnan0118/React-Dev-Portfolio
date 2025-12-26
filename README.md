@@ -23,8 +23,4 @@ This project is designed to showcase personal information, projects, and contact
 - HTML (JSX)
 - CSS
 - React Router DOM
-
----
-
-## 📁 Project Structure
-
+  
